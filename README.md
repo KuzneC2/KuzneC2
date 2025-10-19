@@ -23,7 +23,7 @@
 
 - [avaiasales-app](https://github.com/KuzneC2/aviasales-app) — поиск и фильтрация авиабилетов, JS + React
 - [kata-blog](https://github.com/KuzneC2/kata-blog) — блог-платформа, Rtk + Rtk Query
-- [kata-movie-app](https://github.com/KuzneC2/kata-movie-app) — приложение для кино и сериалов, React
+- [kata-movie-app](https://github.com/KuzneC2/kata-movie-app) — приложение для кино и сериалов, React(НЕОБХОДИМ VPN)
 - [russian-travel](https://github.com/KuzneC2/russian-travel) — гид по путешествиям, HTML/CSS/JS
 
 ---

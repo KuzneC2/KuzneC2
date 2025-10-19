@@ -28,7 +28,7 @@
 
 ---
 
-## Languages and Tools
+## Языки и инструменты
 <table>
 	<tr>
 		<td align="center" width="80"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />

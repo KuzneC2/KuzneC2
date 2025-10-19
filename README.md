@@ -1,24 +1,21 @@
 ## Привет 👋, меня зовут Дмитрий  
   
 ## Контакты  
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://github.com/KuzneC2" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+	<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/28450434/greblin" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+		<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/77kuznetsow" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>    
+			<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/dungeon_mister" target="_blank">
+				<img src="https://img.shields.io/badge/telegram-%230059d6.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt=telegram style="margin-bottom: 5px;" />
+</a>
 
 <br/>  
-
-  
-
-
 
 ### Веб-разработчик и гребец!  
 Я — студент Московского Политеха, увлеченный веб-разработкой и спортом. В области фронтенда я работаю с React, Redux, TypeScript, JavaScript, RTK и API. Учился на курсах в Яндексе и Кате, постоянно развиваю свои навыки и создаю интересные проекты. Также я чемпион по академической гребле, что помогает мне ставить перед собой амбициозные цели и достигать их.

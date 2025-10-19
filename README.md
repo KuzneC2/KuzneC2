@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/Frontend-React%2C%20Redux-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TypeScript-%20JavaScript-3178C6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Мастер_спорта-академическая%20гребля-FFA500?style=for-the-badge"/>
-  <br>
-  <a href="https://github.com/KuznecC2"><img src="https://img.shields.io/github/followers/KuznecC2?label=Follow&style=social"/></a>
 </p>
 
 ---

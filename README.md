@@ -1,36 +1,36 @@
-## Привет 👋, меня зовут Дмитрий  
-  
-## Контакты  
+<!-- Приветствие с эмодзи и заголовком -->
+<h1 align="center">Привет! 👋 Меня зовут Дмитрий</h1>
 
-<a href="https://github.com/KuzneC2" target="_blank">
-	<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/28450434/greblin" target="_blank">
-		<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/77kuznetsow" target="_blank">
-			<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/dungeon_mister" target="_blank">
-				<img src="https://img.shields.io/badge/telegram-%230059d6.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt=telegram style="margin-bottom: 5px;" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%2C%20Redux-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-%20JavaScript-3178C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Мастер_спорта-академическая%20гребля-FFA500?style=for-the-badge"/>
+  <br>
+  <a href="https://github.com/KuznecC2"><img src="https://img.shields.io/github/followers/KuznecC2?label=Follow&style=social"/></a>
+</p>
 
-<br/>  
+---
 
-### Веб-разработчик и гребец!  
-Я — студент Московского Политеха, увлеченный веб-разработкой и спортом. В области фронтенда я работаю с React, Redux, TypeScript, JavaScript, RTK и API. Учился на курсах в Яндексе и Кате, постоянно развиваю свои навыки и создаю интересные проекты. Также я чемпион по академической гребле, что помогает мне ставить перед собой амбициозные цели и достигать их.
+### 💡 О себе
 
-🔸 Основные навыки:
-Frontend: React, Redux, TypeScript, JavaScript, HTML, CSS  
-🔹 Инструменты: RTK, RTK-Query, API  
-🔸 Обучение: Курсы в Яндекс.Практикуме, Кате  
-🔹Спорт: Мастер спорта по академической гребле  
-  
+Я — увлечённый веб-разработчик и спортсмен, студент Московского Политеха. Специализируюсь на фронтенде: **React, Redux, TypeScript, JavaScript, RTK, API**. Регулярно развиваю свои навыки на практике и в реальных проектах. Проходил обучение в Яндекс.Практикуме и участвовал в курсах KATE.
 
-<br/>  
+- 🔥 Основные технологии: React, Redux, TypeScript, JavaScript, HTML, CSS, Sass, API, Git, Vite, RTK-Query
+- 🔗 Владею Figma и GitHub Actions для DevOps задач
+- 🏆 Мастер спорта по академической гребле
 
+---
 
-## Languages and Tools  
+### 🚀 Проекты и активность
+
+- [avaiasales-app](https://github.com/KuzneC2/aviasales-app) — поиск и фильтрация авиабилетов, JS + React
+- [kata-blog](https://github.com/KuzneC2/kata-blog) — блог-платформа, Rtk + Rtk Query
+- [kata-movie-app](https://github.com/KuzneC2/kata-movie-app) — приложение для кино и сериалов, React
+- [russian-travel](https://github.com/KuzneC2/russian-travel) — гид по путешествиям, HTML/CSS/JS
+
+---
+
+## Languages and Tools
 <table>
 	<tr>
 		<td align="center" width="80"> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -66,8 +66,15 @@ Frontend: React, Redux, TypeScript, JavaScript, HTML, CSS
 	</tr>
 </table>
 
-<br/>  
+---
 
-  
+### 🌐 Контакты и соцсети
 
-<br/>  
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dungeon_mister)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/77kuznetsow)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KuzneC2)
+
+---
+
+### 🔥 Благодарю за посещение! Готов к реализации самых амбициозных проектов 🚀
+
